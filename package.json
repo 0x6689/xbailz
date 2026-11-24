@@ -15,10 +15,10 @@
     "wa-bot",
     "websocket"
   ],
-  "homepage": "https://github.com/Xrelly/wbails",
+  "homepage": "https://github.com/0x6689/xbailz",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xrelly/wbails.git"
+    "url": "git+https://github.com/0x6689/xbailz.git"
   },
   "license": "MIT",
   "author": "xrelly",
