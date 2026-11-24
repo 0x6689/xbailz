@@ -1,6 +1,6 @@
-# xbailz hybrid patch
+# xbailz patch
 
-This package keeps the custom `Xrelly-stack/xbailz` features and applies the 1-to-1 target handling used by the comparison implementation.
+This package keeps the custom `0x6689/xbailz` features and applies the 1-to-1 target handling used by the comparison implementation.
 
 ## Change
 
