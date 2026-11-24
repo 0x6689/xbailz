@@ -1,6 +1,6 @@
 <div align="center">
 
-# @Xrelly-stack/xbailz
+# @0x6689/xbailz
 
 A WebSocket-based library for interacting with WhatsApp Web — a fork of
 [Baileys](https://github.com/WhiskeySockets/Baileys) with additional socket layers
@@ -43,7 +43,7 @@ such as payments, products, albums, events, poll results, and order messages.
 ## Installation
 
 ```bash
-npm install @Xrelly-stack/xbailz
+npm install @0x6689/xbailz
 ```
 
 You can also add it to your package manifest as `baileys` or `@whiskeysockets/baileys`:
@@ -51,7 +51,7 @@ You can also add it to your package manifest as `baileys` or `@whiskeysockets/ba
 ```json
 {
   "dependencies": {
-    "@whiskeysocket/baileys": "github:Xrelly-stack/xbailz"
+    "@whiskeysocket/baileys": "github:0x6689/xbailz"
   }
 }
 ```
